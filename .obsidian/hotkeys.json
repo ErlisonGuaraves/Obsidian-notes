@@ -1,0 +1,44 @@
+{
+  "emoji-magic:insert": [
+    {
+      "modifiers": [
+        "Meta"
+      ],
+      "key": "*"
+    }
+  ],
+  "emoji-magic:add-to-filename-start": [
+    {
+      "modifiers": [
+        "Meta"
+      ],
+      "key": "/"
+    }
+  ],
+  "obsidian-admonition:insert-admonition": [
+    {
+      "modifiers": [
+        "Meta"
+      ],
+      "key": "/"
+    }
+  ],
+  "highlightr-plugin:highlighter-plugin-menu": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "+"
+    }
+  ],
+  "highlightr-plugin:unhighlight": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Backspace"
+    }
+  ]
+}

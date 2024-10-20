@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "7d9fdfd36472af7d",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd95436c3536085a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc7c7c3d9a943480",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6692fce5a77d9e93",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5da61c2e6820938",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e6584412a27699f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "e2c4e7e8beec6fbb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "b75bb6e3e46cabf1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bd6e5b6086ddf2df",
+    "type": "split",
+    "children": [
+      {
+        "id": "4cba32b2f87dd724",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d680258ab3e18a5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "🐋Docker.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para 🐋Docker"
+            }
+          },
+          {
+            "id": "ad062b4a4c23589d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "2d7500c30eba7be2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3e02d494195be86a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          },
+          {
+            "id": "5dc5b9d0668c12e9",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "obsidian-projects:Open projects": false,
+      "obsidian-kindle-plugin:Sync your Kindle highlights": true,
+      "pdf-plus:PDF++: Toggle auto-copy": true,
+      "pdf-plus:PDF++: Toggle auto-focus": true,
+      "pdf-plus:PDF++: Toggle auto-paste": true
+    }
+  },
+  "active": "5dc5b9d0668c12e9",
+  "lastOpenFiles": [
+    "Biblioteca/10 ideias para portifolio.pdf",
+    "folderico-violet.ico",
+    "desktop.ini",
+    "Biblioteca/tuning de SQL.pdf",
+    "Biblioteca/DW FERRAMENTAS.pdf",
+    "Biblioteca/SQL notes for professionals.pdf",
+    "Biblioteca/SQL for data science.pdf",
+    "Biblioteca/PSQL - banco de dados oracle.pdf",
+    "Biblioteca/introdution of Machine Learning.pdf",
+    "Biblioteca/Fundamentals of Data Engineering.pdf",
+    "Templates/Livro-Template.md",
+    "Biblioteca/Tuning de SQL - Eduardo Gonçalves.md",
+    "Sem título.md",
+    "kindle",
+    "🐋Docker.md",
+    "Attachments/Docker/🎣Inicio.md",
+    "Excalidraw/Drawing 2024-10-20 12.59.18.excalidraw.md",
+    "😺 Sem título.md",
+    "Attachments/Docker/🧵Docker Compose.md",
+    "Attachments/Docker/🖥️ Comandos uteis.md",
+    "Attachments/Docker/🖼️Docker images.md",
+    "Attachments/Docker/🐟 Docker Hub.md",
+    "Attachments/Docker/Inicio/instalação.md"
+  ]
+}
