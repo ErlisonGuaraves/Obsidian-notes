@@ -5,6 +5,7 @@
   "highlightr-plugin",
   "obsidian-git",
   "templater-obsidian",
-  "obsidian-kindle-plugin",
-  "pdf-plus"
+  "pdf-plus",
+  "editing-toolbar",
+  "file-order"
 ]

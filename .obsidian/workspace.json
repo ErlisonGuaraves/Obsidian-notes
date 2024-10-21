@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "fd95436c3536085a",
+        "id": "8ca3f8726449b94e",
         "type": "tabs",
         "children": [
           {
-            "id": "cc7c7c3d9a943480",
+            "id": "8dbd80d0369bbaf5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
+              "type": "markdown",
+              "state": {
+                "file": "📗Nginx.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -37,9 +39,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Explorador de arquivos"
+              }
             }
           },
           {
@@ -54,9 +54,7 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Procurar"
+              }
             }
           },
           {
@@ -64,16 +62,14 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Marcadores"
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 402.5
   },
   "right": {
     "id": "bd6e5b6086ddf2df",
@@ -89,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🐋Docker.md",
+                "file": "📗Nginx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,9 +93,7 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Links inversos para 🐋Docker"
+              }
             }
           },
           {
@@ -108,11 +102,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "📗Nginx.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Links de saída"
+              }
             }
           },
           {
@@ -123,9 +116,7 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
+              }
             }
           },
           {
@@ -133,9 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
-              "icon": "lucide-list",
-              "title": "Sumário"
+              "state": {
+                "file": "📗Nginx.md"
+              }
             }
           },
           {
@@ -143,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "state": {}
             }
           }
         ],
@@ -165,38 +154,53 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-git:Open Git source control": false,
       "templater-obsidian:Templater": false,
-      "obsidian-book-search-plugin:Create new book note": false,
-      "obsidian-projects:Open projects": false,
-      "obsidian-kindle-plugin:Sync your Kindle highlights": true,
-      "pdf-plus:PDF++: Toggle auto-copy": true,
-      "pdf-plus:PDF++: Toggle auto-focus": true,
-      "pdf-plus:PDF++: Toggle auto-paste": true
+      "obsidian-kindle-plugin:Sync your Kindle highlights": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "5dc5b9d0668c12e9",
+  "active": "1e6584412a27699f",
   "lastOpenFiles": [
-    "Biblioteca/10 ideias para portifolio.pdf",
-    "folderico-violet.ico",
-    "desktop.ini",
+    "Attachments/Nginx/0 ⛳ Inicio.md",
+    "Attachments/Nginx/7 ⚖️ Load Balancer.md",
+    "📗Nginx.md",
+    "⚖️.md",
+    "⚖️Load.md",
+    "Attachments/Nginx/6 🌐 API Gateway.md",
+    "Attachments/Nginx/1 🛡️ Ajustando Firewall.md",
+    "🌐 API Gateway.md",
+    "Attachments/Nginx/5 🙃 Proxy Reverso.md",
+    "Attachments/Nginx/Proxy Reverso/What_is_Reverse_Proxy_Server.webp",
+    "Attachments/Nginx/Proxy Reverso",
+    "Attachments/Nginx/Proxy Reverso/image.png",
+    "Attachments/Nginx/4 👨‍💻 Inicializando Projeto.md",
+    "Attachments/Nginx/2 🕷️ Verficando seu servidor web.md",
+    "Attachments/Nginx/3 💻 Gerênciando o Processo NGINX.md",
+    "Attachments/Nginx/Inicio/⬇️ Instalação do NGINX.md",
+    "Attachments/Docker/0 🎣Inicio.md",
+    "Attachments/Nginx/Inicializando Projeto/Untitled.png",
+    "Attachments/Nginx/Inicio",
+    "Attachments/Nginx/Inicializando Projeto",
+    "Attachments/Nginx",
+    "Attachments/Nginx d69514f4a6a94140864392ab2b449a27.md",
+    "🐋Docker.md",
+    "Excalidraw/Exemplo de Classes e obj.md",
+    "Attachments/Docker/4 🧵Docker Compose.md",
+    "Attachments/Docker/2 🖼️Docker images.md",
+    "Excalidraw/Drawing 2024-10-21 07.30.29.excalidraw.md",
+    "Excalidraw",
     "Biblioteca/tuning de SQL.pdf",
-    "Biblioteca/DW FERRAMENTAS.pdf",
     "Biblioteca/SQL notes for professionals.pdf",
-    "Biblioteca/SQL for data science.pdf",
     "Biblioteca/PSQL - banco de dados oracle.pdf",
     "Biblioteca/introdution of Machine Learning.pdf",
     "Biblioteca/Fundamentals of Data Engineering.pdf",
+    "Attachments/Docker/1 🐟 Docker Hub.md",
+    "Attachments/Docker/Docker Hub/Untitled.png",
     "Templates/Livro-Template.md",
     "Biblioteca/Tuning de SQL - Eduardo Gonçalves.md",
     "Sem título.md",
-    "kindle",
-    "🐋Docker.md",
-    "Attachments/Docker/🎣Inicio.md",
     "Excalidraw/Drawing 2024-10-20 12.59.18.excalidraw.md",
-    "😺 Sem título.md",
-    "Attachments/Docker/🧵Docker Compose.md",
-    "Attachments/Docker/🖥️ Comandos uteis.md",
-    "Attachments/Docker/🖼️Docker images.md",
-    "Attachments/Docker/🐟 Docker Hub.md",
-    "Attachments/Docker/Inicio/instalação.md"
+    "😺 Sem título.md"
   ]
 }
