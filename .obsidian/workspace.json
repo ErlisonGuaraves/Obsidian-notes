@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "107f277bc7c55117",
+        "id": "bcdd03a70337b1a1",
         "type": "tabs",
         "children": [
           {
-            "id": "763bf9ff2f725337",
+            "id": "e176d0b704d025eb",
             "type": "leaf",
             "state": {
               "type": "diff-view",
               "state": {
                 "file": ".obsidian/workspace.json",
-                "staged": true
+                "staged": false
               },
               "icon": "git-pull-request",
               "title": "Diff View (workspace.json)"
@@ -177,7 +177,7 @@
       "pdf-plus:PDF++: Toggle auto-paste": true
     }
   },
-  "active": "763bf9ff2f725337",
+  "active": "e176d0b704d025eb",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2024-10-21 13.33.03.excalidraw.md",
     "🐋Docker.md",
