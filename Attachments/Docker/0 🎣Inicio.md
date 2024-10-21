@@ -12,7 +12,7 @@ Temos uma aplicação ***<mark style="background: #BBFABBA6;">Nginx</mark>*** 
 
 Se observarmos cada uma dessas aplicações e ferramentas, podemos acabar tendo um **conflito de portas**, porque as 3 aplicações nesse cenário dependem da porta 80 para executar o fluxo necessário.
 
-Além disso, como podemos **alterar as versões de maneira prática**? Se simplesmente fizéssemos o *downgrade* ou o *upgrade* da versão do C#, atualizando o .NET, quebraríamos algo? Precisamos desinstalar para instalar uma nova? O mesmo se aplica ao Java e ao Nginx: conseguiríamos atualizar de maneira prática?
+Além disso, como podemos **alterar as versões de maneira prática**? Se simplesmente fizéssemos o *downgrade* ou o *upgrade* da versão do <font color="#6425d0">C#</font>, atualizando o .NET, quebraríamos algo? Precisamos desinstalar para instalar uma nova? O mesmo se aplica ao Java e ao <font color="#00b050">Nginx</font>: conseguiríamos atualizar de maneira prática?
 
 Outra questão é a seguinte: como vamos ter um **controle de recursos de memória e de CPU** para essas aplicações? Por exemplo: a aplicação C# precisa de 100 *millicores* de CPU e 200 *megabytes* de memória para funcionar. Como podemos definir isso de maneira fácil?
 
@@ -80,4 +80,4 @@ graças ao *namespace* UTS, se executarmos nossos containers em uma máquina com
 
 [instalação](instalação.md)
 
-[🐟 Docker Hub](🐟%20Docker%20Hub.md)
+[1 🐟 Docker Hub](1%20🐟%20Docker%20Hub.md)

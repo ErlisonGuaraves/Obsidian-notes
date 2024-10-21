@@ -1,23 +1,24 @@
 {
   "main": {
-    "id": "7d9fdfd36472af7d",
+    "id": "f985a27a81a99e7a",
     "type": "split",
     "children": [
       {
-        "id": "bcdd03a70337b1a1",
+        "id": "9d99acca01a5b89e",
         "type": "tabs",
         "children": [
           {
-            "id": "e176d0b704d025eb",
+            "id": "57923acc96af9af0",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
+                "file": "📗Nginx.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (workspace.json)"
+              "icon": "lucide-file",
+              "title": "📗Nginx"
             }
           }
         ]
@@ -26,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "6692fce5a77d9e93",
+    "id": "ebbd7b506abb4ed9",
     "type": "split",
     "children": [
       {
-        "id": "a5da61c2e6820938",
+        "id": "803f707dec5fe390",
         "type": "tabs",
         "children": [
           {
-            "id": "1e6584412a27699f",
+            "id": "27578127c6341746",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -46,7 +47,7 @@
             }
           },
           {
-            "id": "e2c4e7e8beec6fbb",
+            "id": "920330e1cf4cb0e4",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -63,7 +64,7 @@
             }
           },
           {
-            "id": "b75bb6e3e46cabf1",
+            "id": "7dd0b263364a36f3",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -79,20 +80,20 @@
     "width": 300
   },
   "right": {
-    "id": "bd6e5b6086ddf2df",
+    "id": "5144932378b7f7c9",
     "type": "split",
     "children": [
       {
-        "id": "4cba32b2f87dd724",
+        "id": "747ed4b32315d4ca",
         "type": "tabs",
         "children": [
           {
-            "id": "1d680258ab3e18a5",
+            "id": "5bc11bef57057d68",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🐋Docker.md",
+                "file": "📗Nginx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,25 +103,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para 🐋Docker"
+              "title": "Links inversos para 📗Nginx"
             }
           },
           {
-            "id": "ad062b4a4c23589d",
+            "id": "3aaa956cdb9194bd",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🐋Docker.md",
+                "file": "📗Nginx.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para 🐋Docker"
+              "title": "Links de saída para 📗Nginx"
             }
           },
           {
-            "id": "2d7500c30eba7be2",
+            "id": "7845752ee5534a2d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,19 +134,19 @@
             }
           },
           {
-            "id": "3e02d494195be86a",
+            "id": "1d3fb2be751b8fe2",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "🐋Docker.md"
+                "file": "📗Nginx.md"
               },
               "icon": "lucide-list",
-              "title": "Sumário de 🐋Docker"
+              "title": "Sumário de 📗Nginx"
             }
           },
           {
-            "id": "5dc5b9d0668c12e9",
+            "id": "1ce0b314519e8e29",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -171,36 +172,36 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-git:Open Git source control": false,
       "templater-obsidian:Templater": false,
-      "obsidian-kindle-plugin:Sync your Kindle highlights": true,
-      "pdf-plus:PDF++: Toggle auto-copy": true,
-      "pdf-plus:PDF++: Toggle auto-focus": true,
-      "pdf-plus:PDF++: Toggle auto-paste": true
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "e176d0b704d025eb",
+  "active": "57923acc96af9af0",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-10-21 13.33.03.excalidraw.md",
     "🐋Docker.md",
-    "Biblioteca/10 ideias para portifolio.pdf",
-    "folderico-violet.ico",
-    "desktop.ini",
-    "Biblioteca/tuning de SQL.pdf",
-    "Biblioteca/DW FERRAMENTAS.pdf",
-    "Biblioteca/SQL notes for professionals.pdf",
-    "Biblioteca/SQL for data science.pdf",
-    "Biblioteca/PSQL - banco de dados oracle.pdf",
-    "Biblioteca/introdution of Machine Learning.pdf",
-    "Biblioteca/Fundamentals of Data Engineering.pdf",
-    "Templates/Livro-Template.md",
-    "Biblioteca/Tuning de SQL - Eduardo Gonçalves.md",
-    "Sem título.md",
-    "Attachments/Docker/🎣Inicio.md",
-    "Excalidraw/Drawing 2024-10-20 12.59.18.excalidraw.md",
-    "😺 Sem título.md",
-    "Attachments/Docker/🧵Docker Compose.md",
-    "Attachments/Docker/🖥️ Comandos uteis.md",
-    "Attachments/Docker/🖼️Docker images.md",
-    "Attachments/Docker/🐟 Docker Hub.md",
-    "Attachments/Docker/Inicio/instalação.md"
+    "Biblioteca/Java/Java orientado a objetos.pdf",
+    "Biblioteca/Java/1 Introdução ao java.pdf",
+    "Biblioteca/Java/0 Roadmap - Java.pdf",
+    "Biblioteca/Data Engeneering/Fundamentals of Data Engineering.pdf",
+    "Biblioteca/Java",
+    "Biblioteca/Data Engeneering/Roadmap for Data Engineering 2024 _ by Darshil Parmar _ DataVidhya _ Medium_files/0_F6q2BN7oddumBDGY.jpg",
+    "Biblioteca/Data Engeneering/Roadmap for Data Engineering 2024 _ by Darshil Parmar _ DataVidhya _ Medium_files/1_ytsr0IPyCD3-PTfhBtJHaQ.jpg",
+    "Biblioteca/Data Engeneering/Roadmap for Data Engineering 2024 _ by Darshil Parmar _ DataVidhya _ Medium_files/0_5yfXC1uTOFLJ9S-b.png",
+    "Biblioteca/Data Engeneering/Roadmap for Data Engineering 2024 _ by Darshil Parmar _ DataVidhya _ Medium_files/0_1KACQBiwMc2WYSFo.png",
+    "Biblioteca/Data Engeneering/Roadmap for Data Engineering 2024 _ by Darshil Parmar _ DataVidhya _ Medium_files/styles__ltr.css",
+    "Biblioteca/Data Engeneering/Roadmap for Data Engineering 2024 _ by Darshil Parmar _ DataVidhya _ Medium_files/0_gzCeWxDtGmD23QR5.jpg",
+    "Biblioteca/Data Engeneering/Roadmap for Data Engineering 2024 _ by Darshil Parmar _ DataVidhya _ Medium_files/0_XV_xELF2dA1T9jYr.jpg",
+    "Biblioteca/Data Engeneering/Roadmap for Data Engineering 2024 _ by Darshil Parmar _ DataVidhya _ Medium_files/1_eYuet97kRQ4wHSK8Wh0l4w.jpg",
+    "Biblioteca/Data Engeneering/Roadmap for Data Engineering 2024 _ by Darshil Parmar _ DataVidhya _ Medium_files/branch-latest.min.js.transferir",
+    "Biblioteca/Data Engeneering/Roadmap for Data Engineering 2024 _ by Darshil Parmar _ DataVidhya _ Medium_files/recaptcha__pt_pt.js.transferir",
+    "Biblioteca/Data Engeneering/Roadmap for Data Engineering 2024 _ by Darshil Parmar _ DataVidhya _ Medium_files/xrnLfCEjSrpGR1AYVMyryvUXM8OUMO4sC9T9G27F3zE.js.transferir",
+    "Biblioteca/Data Engeneering/Roadmap for Data Engineering 2024 _ by Darshil Parmar _ DataVidhya _ Medium_files/unbound.css",
+    "Biblioteca/Data Engeneering/Roadmap for Data Engineering 2024 _ by Darshil Parmar _ DataVidhya _ Medium_files/1_dmbNkD5D-u45r44go_cf0g.png",
+    "Biblioteca/Data Engeneering/Roadmap for Data Engineering 2024 _ by Darshil Parmar _ DataVidhya _ Medium_files/1_VP776boigWx5dO2fE4Et2A.png",
+    "Biblioteca/Data Engeneering/Roadmap for Data Engineering 2024 _ by Darshil Parmar _ DataVidhya _ Medium_files/1_Bgs4yjwvOueQGjiP8peiYA.png",
+    "📗Nginx.md",
+    "Attachments/Docker/4 🧵Docker Compose.md",
+    "Biblioteca/Sem título.md"
   ]
 }

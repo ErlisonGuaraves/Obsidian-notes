@@ -1,5 +1,5 @@
 
-Até agora, temos aceitado que as imagens são uma receita para criar um container, mas efetivamente como elas funcionam?
+Até agora, temos aceitado que as <mark style="background: #ABF7F7A6;">imagens</mark> são uma receita para criar um container, mas efetivamente como elas funcionam?
 
 Uma imagem nada mais é que um conjunto de camadas, que ao serem unidas formam imagens. E essas camadas são independentes, cada uma tem o seu respectivo ID (identificador).
 
@@ -40,4 +40,4 @@ docker run -d -v /caminho/no/host:/caminho/no/container <nome_da_imagem>
 Mas qual é a vantagem de usar volumes ao invés dos bind mounts?
 
 
-[🖥️ Comandos uteis](🖥️%20Comandos%20uteis.md)
+[3 🖥️ Comandos uteis](3%20🖥️%20Comandos%20uteis.md)
