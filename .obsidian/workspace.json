@@ -4,17 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "fd95436c3536085a",
+        "id": "bcdd03a70337b1a1",
         "type": "tabs",
         "children": [
           {
-            "id": "cc7c7c3d9a943480",
+            "id": "e176d0b704d025eb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/workspace.json",
+                "staged": false
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (workspace.json)"
             }
           }
         ]
@@ -108,11 +111,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "🐋Docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída"
+              "title": "Links de saída para 🐋Docker"
             }
           },
           {
@@ -133,9 +137,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "🐋Docker.md"
+              },
               "icon": "lucide-list",
-              "title": "Sumário"
+              "title": "Sumário de 🐋Docker"
             }
           },
           {
@@ -165,16 +171,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-git:Open Git source control": false,
       "templater-obsidian:Templater": false,
-      "obsidian-book-search-plugin:Create new book note": false,
-      "obsidian-projects:Open projects": false,
       "obsidian-kindle-plugin:Sync your Kindle highlights": true,
       "pdf-plus:PDF++: Toggle auto-copy": true,
       "pdf-plus:PDF++: Toggle auto-focus": true,
       "pdf-plus:PDF++: Toggle auto-paste": true
     }
   },
-  "active": "5dc5b9d0668c12e9",
+  "active": "e176d0b704d025eb",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-10-21 13.33.03.excalidraw.md",
+    "🐋Docker.md",
     "Biblioteca/10 ideias para portifolio.pdf",
     "folderico-violet.ico",
     "desktop.ini",
@@ -188,8 +194,6 @@
     "Templates/Livro-Template.md",
     "Biblioteca/Tuning de SQL - Eduardo Gonçalves.md",
     "Sem título.md",
-    "kindle",
-    "🐋Docker.md",
     "Attachments/Docker/🎣Inicio.md",
     "Excalidraw/Drawing 2024-10-20 12.59.18.excalidraw.md",
     "😺 Sem título.md",
